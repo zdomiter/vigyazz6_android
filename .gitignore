@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Aláíró kulcsok és jelszavak – soha ne kerüljenek a repóba
+*.jks
+*.keystore
+keystore.properties
